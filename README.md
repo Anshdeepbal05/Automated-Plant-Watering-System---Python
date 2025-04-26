@@ -59,3 +59,4 @@ m=100/(minimumVoltage-maximumVoltage);
 b=100-(m*minVolt);
 moistureScale=m*voltage+b;
 end
+       
